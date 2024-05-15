@@ -1,0 +1,265 @@
+---
+---
+body{
+    font-family: 'Gothic A1', sans-serif;;
+}
+
+nav{
+    font-family: 'Gothic A1', sans-serif;;
+}
+
+
+.navbar .navbar-nav .nav-link:hover {
+    color: #2e8b57ff;
+}
+
+.navbar .navbar-nav .nav-link:focus {
+    color: #2e8b57ff;
+    outline: none;
+    box-shadow: none;
+}
+
+/*image of the homepage*/
+.img-new {
+    max-width: 900px;
+}
+
+.img-header{
+    width: 100%;
+    height: auto;
+    min-height: 100%;
+    max-height: 70vh;
+    overflow: hidden;
+    object-fit: cover;
+    animation: sizing;
+    animation-duration: 10s;
+}
+
+.btn-header{
+    position: absolute ;
+    top:0;
+    left:0;
+    display: flex;
+    width: 3%;
+    height: 3%;
+    font-size: 8px;
+    color: transparent; 
+    background-color: transparent; 
+    border: none;
+       /*alterar o padding e definir a margem do buttom - rever esta definição em css*/
+}
+
+.btn-header{
+    position:absolute;
+    top:50%;
+    left:50%;
+}
+
+@media (min-width:768px){
+    .img-header{
+        width: auto;
+        min-width: 100%;
+        height: 100%;
+    }
+}
+
+@keyframes sizing{
+    0% {transform: scale(1.2);}
+    100% {transform: scale(1.0);}
+}
+
+
+.navbar-brand:hover{
+    transform: scale(1.01);
+}
+
+.navbar-brand{
+    animation: sizing;
+    animation-duration: 1s;
+}
+
+/* logo das redes */
+.logosocialmed2{
+    color:blanchedalmond;
+    max-height: 20px;
+    width: auto;
+    filter:rgb(99, 98, 98);
+}
+
+/*
+.logosocialmed2:hover{
+    color: #2e8b57ff;
+    outline: none;
+    box-shadow: none;
+}
+*/
+
+.profile-img{
+    max-height: 200px;
+    height: 100%;
+    overflow: hidden;
+}
+
+a.post-link{
+    text-decoration: none;
+    color: rgba(0,0,0,.9);
+}
+
+a.post-link:hover{
+    color: #2e8b57ff;
+    transform: scale(1.01);
+}
+
+.img-partner{
+    max-width: min(150px, 100%);
+    max-height: 100%;
+}
+
+.img-partner:hover{
+    transform: scale(1.01);
+}
+
+.img-footer{
+    max-width: 110px;
+    width: 100%;
+}
+
+.partner-box{
+    height: 150px;
+}
+
+a.partner-link{
+    text-decoration: none;
+    color: rgba(0,0,0,.9);
+}
+
+a.partner-link:hover{
+    color: #2e8b57ff;
+    transform: scale(1.01);
+}
+
+/*advisory board images*/
+
+/*advisory board cards
+.card {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .card h2 {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  
+  .card p {
+    margin: 10px 0;
+  }
+  */
+  
+/*definição dos membros adisory board*/
+.img-person{
+    width: 250px;
+    height: auto; 
+}
+
+.img-person:hover{
+    transform: scale(1.05);
+}
+
+/*Publications title*/
+.pubtitle{
+    font-size:1.2rem
+}
+
+small{
+    font-size: 0.7rem;
+}
+
+.img-news:hover{
+    transform: scale(1.01);
+}
+/*news def */
+.img-news {
+    max-width: 300px;
+    max-height: 300px ;
+}
+
+/*new def */
+
+.img-new {
+    width: auto;
+    height: 400px;
+}
+
+
+ /*sign up newsletter */
+
+.signup{
+    display: flex;
+    justify-content: center;
+    height: 30px;
+}
+/*
+.signup{
+    margin-top: 50px;
+    text-align: left;
+    margin-bottom: 50px;
+} */
+
+.input{
+    display: block;
+    width: 200px;
+    height: 40px;
+    margin: 50px;
+    border:black;
+    font-size: 20px;
+}
+
+.text-recycle{
+    color: #2e8b57ff;
+}
+
+.btn-outline-success{
+    color: #2e8b57ff;
+    border-color: #2e8b57ff;
+}
+
+.btn-outline-success:hover{
+    color: rgb(255, 255, 255);
+    background-color:#2e8b57ff ;
+    border-color: #2e8b57ff;
+    transform: scale(1.01);
+}
+
+ /*footer */
+.logosocialmed{
+    color:blanchedalmond;
+    max-height: 30px;
+    width: auto;
+    filter: brightness(0) invert(1);
+}
+
+.copyright-footer{
+    background-color:#2e8b57ff;
+}
+
+.img-era{
+    max-height: 110px;
+    width: auto;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.footer-link:hover{
+    text-decoration: none;
+    color: rgb(110, 202, 255);
+}
+
+
