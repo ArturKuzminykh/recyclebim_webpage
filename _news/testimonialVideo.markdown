@@ -3,7 +3,7 @@ layout: new_layout
 title:  "RecycleBIM Testimonial Video"
 date:   2024-04-05 12:00:00 +0100
 categories: project news
-img: /img/news/TestimonialLogos.jpg.jpg
+img: /img/news/TestimonialLogos.jpg
 ---
 
 Experience firsthand accounts from our project members as they share their unique contributions and experiences in our newly released testimonial video!
