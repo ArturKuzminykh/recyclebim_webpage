@@ -1,15 +1,15 @@
 ---
-name: Südhessische Wertstoffrückgewinnungs
-address: Am Bahnhof 14, 64409 Messel
-site: https://shw-messel.de/
-country: Germany
-img: /img/partners/SHW_Logo_V9.jpg
+name: Tecnalia
+address: Parque Científico y Tecnológico de Gipuzkoa, Mikeletegi Pasealekua, 2, 20009 Donostia-San Sebastian, Gipuzkoa, Spain
+site: https://www.tecnalia.com/en/home
+country: Spain
+img: /img/partners/CMYK_LOGO-TECNALIA_BRT.jpg
 part-no: 6
 people:
     Bernd Lösch:
-        name: Bernd Lösch
-        email: bernd.loesch@shw-messel.de
-        img: /img/people/Losch.png
+        name: David Garcia Estevez
+        email: david.garcia@tecnalia.com
+        img: /img/people/davidgarciaestevez.jpeg
         leader: 1
         title: 0
 
