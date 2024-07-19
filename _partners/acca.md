@@ -6,10 +6,10 @@ country: Italy
 img: /img/partners/Logo-ACCA-software.svg.png
 part-no: 5
 people:
-    Michelangelo Cianciulli:
-        name: Michelangelo Cianciulli
-        email: enrico.ciampi@acca.it
-        img: /img/people/Cianciulli.png
+    Guido Cianciulli:
+        name: Guido Cianciulli
+        email: 
+        img: /img/people/Guido-Cianciulli.jpeg
         leader: 1
         title: 0
     Giovanni Alessandro Esposito:
