@@ -24,5 +24,30 @@ people:
         img: /img/paulo-b-lourenco2.jpg
         leader: 0
         title: 0
+    José Granja:
+        name: José Granja
+        email: 0
+        img: /img/paulo-b-lourenco2.jpg
+        leader: 0
+        title: 0
+    Manuel Parente:
+        name: Manuel Parente
+        email: 0
+        img: /img/paulo-b-lourenco2.jpg
+        leader: 0
+        title: 0
+    Vasco Vieira:
+        name: Vasco Vieira
+        email: 0
+        img: /img/paulo-b-lourenco2.jpg
+        leader: 0
+        title: 0
+    Artur Kuzminykh:
+        name: Artur Kuzminykh
+        email: 0
+        img: /img/paulo-b-lourenco2.jpg
+        leader: 0
+        title: 0
+    
 
 ---

@@ -4,7 +4,7 @@ address: Avenida Fernão Magalhães, no 2345, 4350172 Porto
 site: https://newton.pt/
 country: Portugal
 img: /img/partners/cropped-NEWTON-LOGO-SMALL-1.png
-part-no: 10
+part-no: 11
 people:
     João Vieira:
         name: João Vieira

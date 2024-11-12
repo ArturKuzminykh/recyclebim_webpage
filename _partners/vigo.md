@@ -24,4 +24,24 @@ people:
         img: /img/generic-user-icon-19.png
         leader: 0
         title: 0
+    Rosa María Túñez:
+        name: Rosa María Túñez
+        email: 0
+        img: /img/generic-user-icon-19.png
+        leader: 0
+        title: 0
+    Muataz Albadri:
+        name: Muataz Albadri
+        email: 0
+        img: /img/generic-user-icon-19.png
+        leader: 0
+        title: 0
+    Patricia González Cabaleiro.:
+        name: Patricia González Cabaleiro.
+        email: 0
+        img: /img/generic-user-icon-19.png
+        leader: 0
+        title: 0
+    
+    
 ---

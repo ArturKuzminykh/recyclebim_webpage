@@ -4,7 +4,7 @@ address: R. Dom Sancho I 18, 8500-013 Alvor, Portugal ; Drammensveien 130, entra
 site: https://a-lab.pt/
 country: Portugal, Norway
 img: /img/partners/ALAB.png
-part-no: 13
+part-no: 14
 people:
     Inês Almeida:
         name: Inês Almeira

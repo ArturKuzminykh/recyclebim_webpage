@@ -1,10 +1,10 @@
 ---
-name: Gaiurb EM Division of Innovation and Sustainability
+name: Gaiurb EM
 address: Largo Aljubarrota 13, 4400-012 Vila Nova de Gaia
 site: https://www.gaiurb.pt
 country: Portugal
 img: /img/partners/logotipo-gaiurbNOVO.svg
-part-no: 12
+part-no: 13
 people:
     Carla Pires:
         name: Carla Pires

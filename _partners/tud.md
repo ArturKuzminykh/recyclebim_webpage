@@ -24,5 +24,11 @@ people:
         img: /img/generic-user-icon-19.png
         leader: 0
         title: 0
+    Donglin Cao:
+        name: Donglin Cao
+        email: 0
+        img: /img/generic-user-icon-19.png
+        leader: 0
+        title: 0
 
 ---
