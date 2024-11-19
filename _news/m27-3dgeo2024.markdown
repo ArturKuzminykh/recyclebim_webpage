@@ -1,0 +1,17 @@
+---
+layout: new_layout
+title:  "UVigo Team Presents Work at the 19th 3D GeoInfo Conference 2024"
+date:   2024-07-31 12:00:00 +0100 
+categories: project news
+img: /img/news/3dgeoVigo.jpg
+---
+
+This summer, our project team from the University of Vigo presented their work at the 19th 3D GeoInfo Conference 2024, held from 1–3 July 2024 in Vigo, Spain. Their paper, published in the ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, focuses on advancements made within the RecycleBIM Project.
+
+Authored by Rosa M. Túñez-Alcalde, Muataz S. A. Albadri, Patricia González-Cabaleiro, Antonio Fernández, and Lucía Díaz-Vilariño, the paper outlines the team's work in Work Package 3, which involves data acquisition using advanced laser scanning. This process is a crucial step in developing precise BIM models for buildings slated for demolition, aiming to improve efficiency and support better-informed decisions.
+
+We are incredibly proud of the UVigo team for their dedication and expertise, as well as their outstanding representation of the RecycleBIM Project. Their contributions are a testament to the innovative potential of our project and its impact on the industry.
+
+---
+
+
