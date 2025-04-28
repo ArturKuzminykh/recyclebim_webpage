@@ -12,7 +12,7 @@ O projeto RecycleBIM, em colaboração com a Gaiurb – Vila Nova de Gaia, convi
  
 ❗️**Participação gratuita, mas sujeita a inscrição** 
 <div class="d-grid gap-2 d-md-block py-3 py-md-3 py-md-0">
-👉  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdj1LLfN3tBtwubsCxiSGBzQ-OuQX0zrWG6L1r-2WdNFRywbA/viewform" class="btn btn-success px-2 py-2 fs-5">Formulário de Inscrição</a>  👈              
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdj1LLfN3tBtwubsCxiSGBzQ-OuQX0zrWG6L1r-2WdNFRywbA/viewform" class="btn btn-success px-2 py-2 fs-5">👉 Formulário de Inscrição 👈</a>              
 </div>
 <br>
 
